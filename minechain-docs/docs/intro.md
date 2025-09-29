@@ -4,27 +4,43 @@ sidebar_position: 1
 
 # Welcome to MineChain
 
-**Real Compute. Real People. Real Infrastructure.**
+**Real Compute. Real Infrastructure. Real Business.**
 
-MineChain is different. We're not big tech with phantom node counts. We're not a token with chart-watching degens. We're bare metal operators who actually run the hardware - and we let providers keep 100% of what they earn.
+MineChain is a Web3 compute broker connecting **providers** (infrastructure owners) with **tenants** (end-users) through transparent **lease** agreements.
 
-## For Renters
+## The Model
 
-Access enterprise-grade GPUs on demand. Pay with USDC on Base L2.
+**Providers (Infrastructure Owners):**
+- Own GPU portfolio (your fleet)
+- Pay $49/month broker desk fee
+- Keep 100% of lease revenue
+- Set your own terms
+- Manage occupancy rates
 
-- RTX 5070, 5080, 5090 available
-- Transparent pricing
-- Real uptime from verified providers
+**Tenants (Customers):**
+- Lease GPU compute with clear terms
+- 24-hour minimum lease
+- Payment held in escrow (USDC on Base L2)
+- Transparent SLA
 
-## For Providers
+**MineChain (Broker):**
+- Provides marketplace infrastructure
+- Manages escrow and settlements
+- Enforces SLA
+- No rev-share, just desk fees
 
-Turn your GPU into passive income. $49/month flat fee, keep 100% of rental revenue.
+## Net Lease Structure
 
-- Set your own rates
-- Get your own provider homepage
-- Monthly USDC payouts
-- No rev-share cuts
+- Tenant pays compute rate
+- Provider covers power, cooling, bandwidth
+- Broker provides marketplace infrastructure
+- Everyone owns their business
 
-## Quality Over Quantity
+## Key Metrics
 
-Every provider is vetted. No junk rigs. Just professional operators.
+- **Portfolio** - Your GPU fleet
+- **Occupancy** - Utilization rate (target: 70%+)
+- **Turnover** - Tenant rotation rate
+- **Terms** - SLA and lease conditions
+
+No tokens. No charts. Just infrastructure business.
