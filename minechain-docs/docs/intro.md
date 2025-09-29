@@ -6,7 +6,7 @@ sidebar_position: 1
 
 **Real Compute. Real Infrastructure. Real Business.**
 
-MineChain is a Web3 compute broker connecting **providers** (infrastructure owners) with **tenants** (end-users) through transparent **lease** agreements.
+MineChain is a Web3 compute broker connecting providers (infrastructure owners) with tenants (end-users) through transparent lease agreements.
 
 ## The Model
 
@@ -34,7 +34,6 @@ MineChain is a Web3 compute broker connecting **providers** (infrastructure owne
 - Tenant pays compute rate
 - Provider covers power, cooling, bandwidth
 - Broker provides marketplace infrastructure
-- Everyone owns their business
 
 ## Key Metrics
 
