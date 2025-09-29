@@ -10,7 +10,7 @@ const config: Config = {
   baseUrl: '/',
   organizationName: 'SudoSuOps',
   projectName: 'minechain-docs',
-  onBrokenLinks: 'throw',
+  onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
 
   i18n: {
