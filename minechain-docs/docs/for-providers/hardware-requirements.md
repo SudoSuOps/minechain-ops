@@ -22,7 +22,7 @@ sidebar_position: 2
 ## System Requirements
 
 **Memory:**
-- Minimum: 32GB DDR4/DDR5
+- Minimum: 32GB DDR4 or DDR5
 - Recommended: 64GB or more for AI workloads
 - ECC preferred but not required
 
@@ -32,18 +32,18 @@ sidebar_position: 2
 - SATA SSDs not accepted
 
 **CPU:**
-- Minimum: 8-core modern CPU (Ryzen 5 5600X / Intel i5-12600K or better)
+- Minimum: 8-core modern CPU
 - Recommended: 12 or more cores for parallel job handling
-- Server-grade (Threadripper, EPYC, Xeon) preferred for multi-GPU
+- Server-grade CPUs preferred for multi-GPU
 
 **Network:**
 - Fiber internet required
 - Minimum: 500 Mbps symmetric
 - Recommended: 1Gbps or faster
-- Low latency (under 20ms to major data centers)
+- Low latency under 20ms to major data centers
 - Static IP or dynamic DNS
 
-**Power & Cooling:**
+**Power and Cooling:**
 - UPS backup recommended
 - Redundant PSU for multi-GPU setups
 - Professional cooling solution
@@ -51,9 +51,9 @@ sidebar_position: 2
 
 ## Verification Process
 
-Before portfolio goes live:
+Before portfolio goes live we verify:
 
-- GPU benchmark tests (no degraded performance)
+- GPU benchmark tests
 - Network speed and latency tests
 - Sustained load testing
 - Cooling and power verification
