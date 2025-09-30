@@ -23,24 +23,24 @@ sidebar_position: 2
 
 **Memory:**
 - Minimum: 32GB DDR4/DDR5
-- Recommended: 64GB+ for AI workloads
+- Recommended: 64GB or more for AI workloads
 - ECC preferred but not required
 
 **Storage:**
 - Minimum: 1TB NVMe SSD
-- Recommended: 2TB+ for multi-tenant scenarios
+- Recommended: 2TB or more for multi-tenant scenarios
 - SATA SSDs not accepted
 
 **CPU:**
 - Minimum: 8-core modern CPU (Ryzen 5 5600X / Intel i5-12600K or better)
-- Recommended: 12+ cores for parallel job handling
+- Recommended: 12 or more cores for parallel job handling
 - Server-grade (Threadripper, EPYC, Xeon) preferred for multi-GPU
 
 **Network:**
-- **Fiber internet required**
+- Fiber internet required
 - Minimum: 500 Mbps symmetric
-- Recommended: 1Gbps+
-- Low latency (<20ms to major data centers)
+- Recommended: 1Gbps or faster
+- Low latency (under 20ms to major data centers)
 - Static IP or dynamic DNS
 
 **Power & Cooling:**
